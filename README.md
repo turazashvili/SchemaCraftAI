@@ -11,6 +11,10 @@ Schema Craft helps you quickly design database schemas and generate boilerplate 
 3. Generate code for your chosen tech stack 
 4. Download a complete bundle with models, routers, and schemas
 
+## Live Demo
+
+Try out Schema Craft now: [https://schemacraftai.vercel.app/](https://schemacraftai.vercel.app/)
+
 ## Technologies Used
 
 This project is built with:
