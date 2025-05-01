@@ -1,0 +1,54 @@
+
+/* Entity Node Styles */
+.entity-node {
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  overflow: hidden;
+  background-color: white;
+  min-width: 200px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.entity-node-header {
+  padding: 8px 12px;
+  font-weight: 600;
+  font-size: 14px;
+  border-bottom: 1px solid #e2e8f0;
+  text-transform: lowercase;
+}
+
+.entity-node-content {
+  padding: 8px;
+}
+
+.entity-node-field {
+  display: flex;
+  justify-content: space-between;
+  padding: 4px 8px;
+  border-bottom: 1px dashed #f0f0f0;
+  font-size: 12px;
+}
+
+.entity-node-field:last-child {
+  border-bottom: none;
+}
+
+.field-primary-key {
+  font-weight: 600;
+}
+
+.field-foreign-key {
+  color: #4f46e5;
+  text-decoration: underline dotted;
+}
+
+.field-unique {
+  font-style: italic;
+}
+
+/* Custom handle styles for react-flow */
+.react-flow__handle {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+}
