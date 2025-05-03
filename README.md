@@ -1,7 +1,7 @@
 # Schema Craft AI 🧠✨
 
 <div align="center">
-  <img src="public/logo.svg" alt="Schema Craft AI Logo" width="200"/>
+  <img src="public/favicon.ico" alt="Schema Craft AI Logo" width="200"/>
   <h3>Database Schema Design & Code Generation Powered by AI</h3>
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
